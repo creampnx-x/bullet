@@ -1,0 +1,8 @@
+.App {
+  /**position: absolute;*/
+  top: 4em;
+  left: 7em;
+  background: darkslategray;
+  width: 600px;
+  height: 255px;
+}
